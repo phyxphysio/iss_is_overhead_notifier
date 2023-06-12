@@ -1,0 +1,12 @@
+{
+    "Email": {
+      "my_email": "YOUREMAIL@gmail.com",
+      "password": "YOUR PASSWORD HERE",
+      "recipient_email": "RECIPIENTEMAIL@gmail.com"
+    },
+    "SMTP": {
+      "server": "smtp.gmail.com",
+      "port": 587
+    }
+  }
+  
